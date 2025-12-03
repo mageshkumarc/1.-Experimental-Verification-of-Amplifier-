@@ -67,6 +67,8 @@ A = -Rf/R1
 Take  A = 10
 Rf =10 R1
 Choose R1 = 1.5kΩ, Rf=15kΩ
+![WhatsApp Image 2025-12-03 at 19 18 05_6e3c8017](https://github.com/user-attachments/assets/612b2827-976a-44b3-b6fb-de7b175515e3)
+
 
 PROCEDURE:
 Inverting amplifier:
@@ -100,6 +102,8 @@ Here, the output is fed back to the inverting terminal, and **no phase shift** o
 
 
 ACL = 1 + RF/R1 RF = 15kohms R1 = 2kohms
+
+![WhatsApp Image 2025-12-03 at 19 19 42_169490f3](https://github.com/user-attachments/assets/908b1e01-48be-4a23-84b4-9771c8053ad8)
 
 
 ---
@@ -147,6 +151,8 @@ If the two input signals are identical, the output is ideally **zero**.
 
 
 A = Vo/{V2 - V1} = -Rf/R1
+
+
 ## CIRCUIT DIAGRAM
 
 ![WhatsApp Image 2025-12-02 at 17 44 16_3ed4ad9a](https://github.com/user-attachments/assets/b2b8a542-e0ef-4f22-a850-ed3ce4bda5a1)
@@ -167,6 +173,8 @@ AV = Vo/{V1 - V2} = -Rf/R1
 Take  A = 10 
 ⇒  Rf = 10R1   
 Choose  R1 = 1.5kOhm, Rf = 15kOhm
+
+<img width="1599" height="781" alt="image" src="https://github.com/user-attachments/assets/fd64674d-5319-4528-a616-6683619a32f5" />
 
 ---
 
@@ -202,6 +210,9 @@ An instrumentation amplifier is the intermediate stage of a instrumentation syst
 The major requirements of a instrumentation amplifier are precise, low-level signal amplification where low-noise, low thermal and time drifts, high input resistance & accurate closed-loop gain, low power consumption, high CMRR & high slew rate for superior performance.
 The output of Instumentation amplifier is given by
 Vo = RF/R1[1+ 2R’/R][V2-V1]
+
+<img width="1599" height="781" alt="image" src="https://github.com/user-attachments/assets/73ac7e69-4205-42bb-bb9d-982a4b4d6407" />
+
  
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
