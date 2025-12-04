@@ -67,6 +67,8 @@ A = -Rf/R1
 Take  A = 10
 Rf =10 R1
 Choose R1 = 1.5kΩ, Rf=15kΩ
+![WhatsApp Image 2025-12-04 at 11 52 22_2553153c](https://github.com/user-attachments/assets/62c2a779-9abd-4564-883b-49cffb0454b0)
+
 ![WhatsApp Image 2025-12-03 at 19 18 05_6e3c8017](https://github.com/user-attachments/assets/612b2827-976a-44b3-b6fb-de7b175515e3)
 
 
@@ -102,6 +104,9 @@ Here, the output is fed back to the inverting terminal, and **no phase shift** o
 
 
 ACL = 1 + RF/R1 RF = 15kohms R1 = 2kohms
+
+![WhatsApp Image 2025-12-04 at 11 51 43_660d5d6e](https://github.com/user-attachments/assets/e6860a88-d9c6-435a-bf38-35cb7f76a728)
+
 
 ![WhatsApp Image 2025-12-03 at 19 19 42_169490f3](https://github.com/user-attachments/assets/908b1e01-48be-4a23-84b4-9771c8053ad8)
 
@@ -173,6 +178,8 @@ AV = Vo/{V1 - V2} = -Rf/R1
 Take  A = 10 
 ⇒  Rf = 10R1   
 Choose  R1 = 1.5kOhm, Rf = 15kOhm
+![WhatsApp Image 2025-12-04 at 11 53 14_28ec6aef](https://github.com/user-attachments/assets/38a8ff03-67a8-41f1-9ea4-d3be6c46659d)
+
 
 <img width="1599" height="781" alt="image" src="https://github.com/user-attachments/assets/fd64674d-5319-4528-a616-6683619a32f5" />
 
